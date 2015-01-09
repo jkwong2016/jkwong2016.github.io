@@ -1,0 +1,9 @@
+body {
+  font-family: 'avenir black', arial, sans-serif;
+  font-weight: 300;
+  background: url(steph-curry.jpeg) repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
