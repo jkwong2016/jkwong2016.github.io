@@ -1,0 +1,64 @@
+
+.jumbotron {
+  	padding-bottom: 100px;
+  	background:linear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(0, 0, 0, 0.5)
+    ),url(./images/howitworkshero.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+.row1 {
+	padding-bottom: 20px;
+}
+
+.row2, .row3 {
+	padding-bottom: 90px;
+}
+
+.row2 h4, .row2 p, .row3 h4, .row3 p {
+	text-align: left;
+	/*text-transform: none;*/
+	margin:0;
+}
+
+.row3 p, .row2 p {
+	padding-bottom: 10px;
+}
+
+.row2 h4, .row3 h4 {
+	padding-bottom: 30px;
+}
+
+.row3 {
+	margin:0;
+	margin-left: 30px;
+}
+
+.step2image {
+/*	display: block;
+  	margin-left: auto;
+  	margin-right: auto;*/
+	width: 70%;
+}
+
+.getstarted {
+	color: black;
+	text-align: center;
+	background-color:#EBEBEB;
+  	background-size: cover;
+  	background-position: 100% 100%;
+	font-size: 35px;
+	line-height: 30px;
+	/*letter-spacing: 5px;*/
+	font-weight: 200;
+	font-style: normal;
+	padding-top:100px;
+	padding-bottom: 80px;
+	/*margin-top: 30px;*/
+}
+
+.getstarted p {
+	padding-bottom: 20px;
+}
