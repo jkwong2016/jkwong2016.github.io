@@ -11,7 +11,7 @@ body {
     ),url(./images/heroshot.jpg);
     background-size: cover;
   	background-position: 40% 50%;
-  	/*background-attachment: fixed;*/
+  	background-attachment: fixed;
   	color:white;
   	padding-top: 360px;
   	padding-bottom: 350px;
